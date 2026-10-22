@@ -1,6 +1,6 @@
 id: e9c8ebfd-e5bb-4a9e-9858-12907398cf5d
 name: Samsung Knox - Potential Multistage Attack Detected
-version: 1.0.0
+version: 1.0.1
 kind: Scheduled
 description: |
   'Indicates potential threats based on detecting multi-stage attacks, initially focused on suspicious URL and app sideloading events'
